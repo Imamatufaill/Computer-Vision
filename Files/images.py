@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread("../Images/image1.jpg")
+image = cv2.imread("../Images/WhatsApp Image 2025-12-31 at 9.43.16 PM.jpeg")
 
 cv2.imshow("My Image", image)
 
